@@ -2,7 +2,7 @@
 from setuptools import find_packages, setup
 
 setup(
-    name="redis",
+    name="sspmredis",
     description="Python client for Redis database and key-value store",
     long_description=open("README.md").read().strip(),
     long_description_content_type="text/markdown",
